@@ -10,6 +10,7 @@ namespace program1
         static void Main(string[] args)
         {
             Console.WriteLine("Dobar dan!");
+            Console.WriteLine("kako ste");
         }
     }
 }
