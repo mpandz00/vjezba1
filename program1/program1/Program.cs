@@ -12,5 +12,10 @@ namespace program1
             Console.WriteLine("Dobar dan!");
             Console.WriteLine("kako ste");
         }
+        
+        public static void Test2()
+        {
+        }
+        }
     }
 }
